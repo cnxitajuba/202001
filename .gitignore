@@ -1,2 +1,5 @@
-*.filepart
+*~
+*.zip
 *.mp3
+Thubs.db
+desktop.ini
